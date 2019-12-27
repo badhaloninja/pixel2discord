@@ -22,3 +22,7 @@ filename = 'user1.png'	# File name
 * Run `convert.py`
 * Once it is done generating files in the subfolder of it's current directory with the name of the original file appended with `_out`, add them to a Discord Guild and don't change the names.
 * Optional: Put `print_emojis.ahk` in the newly created directory with the newly created `disp.txt` file have Discord open in the channel you want to print the image to, run it and click the Discord text box after 5s it should start printing
+
+
+## Example
+![Example](https://cdn.discordapp.com/attachments/594881843501727755/660034582157983793/unknown.png "Example")
