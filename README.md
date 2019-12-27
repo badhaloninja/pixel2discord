@@ -1,4 +1,4 @@
-# pixel2discord
+# pixel2discord https://discord.gg/UsxxNnX
 Convert pixel art to massive Discord messages w/ emojis
 
 * For python 2.7 might work with python 3
