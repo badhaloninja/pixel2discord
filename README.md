@@ -24,5 +24,12 @@ filename = 'user1.png'	# File name
 * Optional: Put `print_emojis.ahk` in the newly created directory with the newly created `disp.txt` file have Discord open in the channel you want to print the image to, run it and click the Discord text box after 5s it should start printing
 
 
-## Example
-![Example](https://cdn.discordapp.com/attachments/594881843501727755/660034582157983793/unknown.png "Example")
+## Examples
+![Me](https://cdn.discordapp.com/attachments/594881843501727755/660034582157983793/unknown.png "Me")
+
+![Sans](https://media.discordapp.net/attachments/653083168030851102/660671611669839882/unknown.png "Sans")
+
+![Baba](https://media.discordapp.net/attachments/594881843501727755/660558362089488416/unknown.png "Baba")
+
+![Violet](https://media.discordapp.net/attachments/653083168030851102/660673071379906560/unknown.png "Violet")
+
